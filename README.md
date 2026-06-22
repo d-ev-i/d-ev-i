@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Devi Prasad
+# Hi there 👋 I'm Devi Prasad
 M. Tech graduate in Artificial Intelligence from Amrita Vishwa Vidyapeetham.
 
 ## About Me
@@ -40,6 +40,7 @@ Developed a recommendation system using collaborative filtering, content-based f
 
 ## Connect With Me
 LinkedIn: [https://linkedin.com/in/devi-prasad-00229b266](https://linkedin.com/in/devi-prasad-00229b266)
+
 Email: [deviprasad0612@gmail.com](mailto:deviprasad0612@gmail.com)
 
 
